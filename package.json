@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-april_personal_antor:tanvirahmed055/Iconia.git"
+    "url": "git+https://github.com/tanvirahmed055/Iconia"
   },
   "keywords": [
     "Iconia",
@@ -17,5 +17,9 @@
     "Package"
   ],
   "author": "Tanvir Ahmed",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvirahmed055/Iconia/issues"
+  },
+  "homepage": "https://github.com/tanvirahmed055/Iconia#readme"
 }
