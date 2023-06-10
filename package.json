@@ -1,0 +1,21 @@
+{
+  "name": "iconia-icon-package",
+  "version": "1.0.0",
+  "description": "A icon library for using in your projects",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-april_personal_antor:tanvirahmed055/Iconia.git"
+  },
+  "keywords": [
+    "Iconia",
+    "Icon",
+    "Library",
+    "Package"
+  ],
+  "author": "Tanvir Ahmed",
+  "license": "ISC"
+}
