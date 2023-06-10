@@ -1,6 +1,6 @@
 {
   "name": "@tanvir055/iconia-icon-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A icon library for using in your projects",
   "main": "index.css",
   "scripts": {
